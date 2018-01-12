@@ -20,3 +20,16 @@
    * Force delete for branch if you don't want this feature anymore. (When `git branch -d bad_feature` is not enough.)
    You can either add the `--force (-f)` option or use `-D` which combines `-d -f` together into one command.
    
+## Task 1
+
+1. [Linux Command Line Basics](https://classroom.udacity.com/courses/ud595)
+
+   * All stuff about virtual machine was new to me. It was the first time using VirtualBox and Vagrant. 
+   
+   * One more interesting thing was thinking about what a shell command really is. How is it similar to, and different from a function in JavaScript.
+
+2. [Configuring Linux Web Servers](https://classroom.udacity.com/courses/ud299)
+
+   * It was a completely new experience for me.
+
+   * Funny fact: if you didn't halt your virtual machine from the previous course you would have a bunch of troubles in this one. So make sure to do that.
