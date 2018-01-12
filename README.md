@@ -33,3 +33,18 @@
    * It was a completely new experience for me.
 
    * Funny fact: if you didn't halt your virtual machine from the previous course you would have a bunch of troubles in this one. So make sure to do that.
+   
+3. [Networking for Web Developers](https://classroom.udacity.com/courses/ud256)
+
+   Themes considered in this course wasn't completely new to me, but I definitely didn't know them so deep. 
+
+   Some new things to name:
+
+   * && in the command line, which means "run the first program; then if that succeeds, run the second program";
+
+   * IPv6 addresses;
+
+   * how routers drop packets when the link they are trying to send on is too busy, and TCP slows down if packets are dropped;
+
+   * how traceroute works.
+
