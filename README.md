@@ -48,3 +48,18 @@
 
    * how traceroute works.
 
+4. HTTP: The Protocol Every Web Developer Must Know - Part 1
+
+   * The new thing was 1xx status codes;
+
+   * the surprising thing was that PUT and DELETE verbs are sometimes considered as specialized versions of the POST verb, and they may be packaged as POST requests with the payload containing the exact action: create, update or delete;
+
+   * the things that I intend to use in the future are tools to view HTTP traffic (by the way I tried another one great tool - Postman, an HTTP client).
+
+5. HTTP: The Protocol Every Web Developer Must Know - Part 2
+
+   * The new thing was persistent connections, which in combination with parallel connections were implemented to reduce connection-establishment delays;
+
+   * (I don't know why it was surprising, it's kinda logical.) Nevertheless, the surprising thing was that just because a cached copy has expired doesn't mean that the server actually has newer content. So I agree, the combination of document expiration and server revalidation should be a very effective mechanism;
+
+   * the things I intend to use in the future is the Cache-Control header.
