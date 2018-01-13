@@ -63,3 +63,40 @@
    * (I don't know why it was surprising, it's kinda logical.) Nevertheless, the surprising thing was that just because a cached copy has expired doesn't mean that the server actually has newer content. So I agree, the combination of document expiration and server revalidation should be a very effective mechanism;
 
    * the things I intend to use in the future is the Cache-Control header.
+
+## Task 2
+
+0. [What is Version Control](https://classroom.udacity.com/courses/ud123)
+
+   At the beginning of this course, I had thoughts like "Ok, it's a lot of already known stuff here." But starting from the lesson three it became clear, that it will be a lot of new stuff too :).
+
+   Some things to name:
+
+   * -w flag for `git log` (and all that `git log` vs. `git show` stuff);
+
+   * `git tag` was a new thing to me (before I only knew it exists);
+
+   * some merging nuances and Relative Commit References;
+
+   * the complete lesson six with all these `commit --amend`, `git revert` and `git reset`. This one was my favorite!
+
+1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+   This course was really intense. And it was clear from the very beginning, it will be a ton of new stuff.
+
+   Some things to name:
+
+   * `git pull` vs. `git fetch`;
+
+   * stuff in lesson two about Reviewing Existing Work (`--author` flag to `git log` to filter the commits by the provided author; `--grep` flag to `git log` to filter commits, etc.);
+
+   * "Stay in sync with source project" and "Squash Commits" from lesson three.
+
+2. Yeah, I'm going to send a message in gitter channel with the link to my repo :)
+
+## Task 3
+
+* [Intro to HTML & CSS](https://classroom.udacity.com/courses/ud001)
+
+  The majority of the information in this course was already well known. But still, I found out, I have never used  `<figure>` element before. And also I've got a few new useful bookmarks in my browser.
+  
