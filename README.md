@@ -100,3 +100,26 @@
 
   The majority of the information in this course was already well known. But still, I found out, I have never used  `<figure>` element before. And also I've got a few new useful bookmarks in my browser.
   
+## Task 4
+
+* [Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
+
+  The coolest stuff in this course was not about tools like media queries and flexbox and so on, which was already known. But about patterns and best practices. 
+
+  For example:
+
+  * *why* mobile first;
+
+  * how to pick breakpoints (and also minor breakpoints);
+
+  * common responsive patterns;
+
+  * responsive tables.
+
+  Things that I definitely gonna try:
+
+  * remote debugging;
+
+  * browser testing with BrowserStack;
+
+  * Responsive Images course (which was mentioned). 
