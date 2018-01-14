@@ -123,3 +123,11 @@
   * browser testing with BrowserStack;
 
   * Responsive Images course (which was mentioned). 
+
+## Task 5
+
+* [Intro to JS](https://classroom.udacity.com/courses/ud803)
+
+  This course was a revision of already known JavaScript fundamentals. 
+
+  However, there was a FizzBuzz problem. And it was quite interesting to think, which solution would be the most simple and effective. 
